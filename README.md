@@ -1,4 +1,3 @@
-# My-Biography
 # Hi, I'm Obod Petr 👋
 
 I am a developer from Ukraine. I like to create clean and simple software that helps people.
@@ -17,6 +16,14 @@ I am a developer from Ukraine. I like to create clean and simple software that h
 - Solve problems and learn new things
 
 ## Skills
+
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VS Code](https://skillicons.dev/icons?i=vscode)
 
 - **Languages:** Python
 - **Tools:** Git, VS Code, GitHub
