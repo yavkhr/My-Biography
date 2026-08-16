@@ -1,17 +1,17 @@
-![3otv](assets/3otv.gif)
-
-## Good Day
+# Good Day
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Peter+Obod;Python+Developer&center=true&size=45&width=800&height=80&color=FFFFFF)](https://git.io/typing-svg)
+
+![3otv](assets/3otv.gif)
 
 I am a developer from Ukraine. I like to create clean and simple software that helps people.
 
 ## About me
 
-- ðŸŒ± I am learning and improving my skills every day
-- ðŸ”­ I work on my own projects and experiments
-- ðŸ’¬ Feel free to ask me about programming
-- ðŸŽ¯ My goal is to write useful and quality code
+- I am learning and improving my skills every day
+- I work on my own projects and experiments
+- Feel free to ask me about programming
+- My goal is to write useful and quality code
 
 ## What I do
 
@@ -29,14 +29,11 @@ I am a developer from Ukraine. I like to create clean and simple software that h
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 
-- **Languages:** Python
-- **Tools:** Git, VS Code, GitHub
-- **Interests:** Web development, automation
-
 ## How to reach me
 
-- GitHub: [yavkhr](https://github.com/yavkhr)
-- Email: peterobod463@gmail.com
+[![Telegram](https://img.shields.io/badge/Telegram-odept__tg-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/odept_tg)
+[![GitHub](https://img.shields.io/badge/GitHub-yavkhr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yavkhr)
+[![Email](https://img.shields.io/badge/Email-peterobod463%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peterobod463@gmail.com)
 
 ---
 
