@@ -31,9 +31,11 @@ I am a developer from Ukraine. I like to create clean and simple software that h
 
 ## How to reach me
 
-[![Telegram](https://img.shields.io/badge/Telegram-odept__tg-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/odept_tg)
-[![GitHub](https://img.shields.io/badge/GitHub-yavkhr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yavkhr)
-[![Email](https://img.shields.io/badge/Email-peterobod463%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peterobod463@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/odept_tg)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yavkhr)
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peterobod463@gmail.com)
 
 ---
 
