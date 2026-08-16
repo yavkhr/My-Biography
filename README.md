@@ -1,4 +1,3 @@
-# Good Day
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Peter+Obod;Python+Developer&center=false&size=45&width=800&height=80&color=FFFFFF)](https://git.io/typing-svg)
 
