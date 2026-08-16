@@ -1,8 +1,8 @@
-# Hi, I'm Obod Petr ðŸ‘‹
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Developer+from+Ukraine;I+love+Python;Creating+simple+and+useful+software&center=true&size=22&width=500&height=50)](https://git.io/typing-svg)
-
 ![3otv](assets/3otv.gif)
+
+## Good Day
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Peter+Obod;Python+Developer&center=true&size=45&width=800&height=80&color=FFFFFF)](https://git.io/typing-svg)
 
 I am a developer from Ukraine. I like to create clean and simple software that helps people.
 
