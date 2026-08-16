@@ -1,4 +1,3 @@
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Peter+Obod;Python+Developer&center=false&size=45&width=800&height=80&color=FFFFFF)](https://git.io/typing-svg)
 
 ![3otv](assets/3otv.gif)
@@ -30,6 +29,8 @@ I am a developer from Ukraine. I like to create clean and simple software that h
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 
 ## How to reach me
+
+[![Website](https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=react&logoColor=58a6ff)](https://yavkhr.github.io/yavkhr-site-portfolio/)
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yavkhrbio)
 
