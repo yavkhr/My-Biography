@@ -1,15 +1,17 @@
-# Hi, I'm Obod Petr 👋
+# Hi, I'm Obod Petr ðŸ‘‹
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Developer+from+Ukraine;I+love+Python;Creating+simple+and+useful+software&center=true&size=22&width=500&height=50)](https://git.io/typing-svg)
+
+![3otv](assets/3otv.gif)
 
 I am a developer from Ukraine. I like to create clean and simple software that helps people.
 
 ## About me
 
-- 🌱 I am learning and improving my skills every day
-- 🔭 I work on my own projects and experiments
-- 💬 Feel free to ask me about programming
-- 🎯 My goal is to write useful and quality code
+- ðŸŒ± I am learning and improving my skills every day
+- ðŸ”­ I work on my own projects and experiments
+- ðŸ’¬ Feel free to ask me about programming
+- ðŸŽ¯ My goal is to write useful and quality code
 
 ## What I do
 
