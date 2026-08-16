@@ -1,6 +1,6 @@
 # Good Day
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Peter+Obod;Python+Developer&center=true&size=45&width=800&height=80&color=FFFFFF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Peter+Obod;Python+Developer&center=false&size=45&width=800&height=80&color=FFFFFF)](https://git.io/typing-svg)
 
 ![3otv](assets/3otv.gif)
 
@@ -12,6 +12,7 @@ I am a developer from Ukraine. I like to create clean and simple software that h
 - I work on my own projects and experiments
 - Feel free to ask me about programming
 - My goal is to write useful and quality code
+- My dream is to become an AI engineer
 
 ## What I do
 
