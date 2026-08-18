@@ -40,4 +40,7 @@ I am a developer from Ukraine. I like to create clean and simple software that h
 
 ---
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yavkhr&theme=holi&animation=rise)
+
+---
 *Thanks for visiting my profile!*
